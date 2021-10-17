@@ -1,5 +1,5 @@
 const vowels = ['a', 'u', 'e', 'i', 'o', 'A', 'U', 'E', 'I', 'O'];
-const str = '';
+const str = 'dsklKDiaoekfjSADfweqidsfjvksda';
 const getStringLength = (str) => {
   let result = 0;
   for (let i = 0; i < str.length; i++) {
